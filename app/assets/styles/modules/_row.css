@@ -65,7 +65,7 @@
 
   }
 
-    @mixin atLarge {
+  @mixin atLarge {
 
     &__b-margin-until-large {
       margin-bottom: 0;
@@ -95,7 +95,6 @@
     }
 
   }
-
   
   /* Begin Equal Height Rules */
   &--equal-height-at-medium {
